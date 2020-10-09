@@ -1,0 +1,20 @@
+h1 {
+  background-color: blueviolet; 
+  color: white;
+}
+h2 { background-color: yellow; 
+color: cyan; 
+}
+h3 {
+  background-color: black;
+  color: red
+  }
+h4{
+  background-color: pink; 
+  color: orange 
+}
+body {
+  background-image: url("black.jpg");
+  background-repeat: repeat;
+  background-size: 1px 1px;
+}
